@@ -6,7 +6,7 @@ namespace HelloWordPro
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello planet with Git with changes1!");
+			Console.WriteLine("Hello planet with Git with changes1! view12 ");
 		}
 	}
 }
